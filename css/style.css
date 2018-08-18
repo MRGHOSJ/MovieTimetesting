@@ -1,0 +1,10 @@
+body {
+	background-color: #00BDDF;
+}
+#loginbackg {
+	background-color: rgba(0, 0, 0, 0.80);
+}
+#infos {
+	border-left-style: dotted;
+	border-color: white;
+}
